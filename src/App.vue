@@ -37,7 +37,7 @@ export default {
     return {
       pokemones: [],
       contador: "0",
-      imgLogo: "/assets/Image20240529105536.png"
+      imgLogo: "assets/Image20240529105536.png"
     }
   },
   computed: {
